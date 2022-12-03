@@ -34,7 +34,7 @@ app.get('/create-depertment/:name', (req, res) => {
  fs.writeFile('database',JSON.stringify(allData), () => {})
  res.send(`${req.params.name} added`)
   })
-})
+}) 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
