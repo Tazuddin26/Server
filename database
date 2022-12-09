@@ -1,1 +1,22 @@
-{"employees":["Taz","Mohammad"],"depertments":["IT"," System Admin"]}
+{
+    "employee": [
+        {
+            "Employee_ID": "001",
+            "Employee_Name": "taz",
+            "Date": "01/02/2022",
+            "In_Time": "9.00",
+            "Out_Time": "5.00",
+            "Work_Time": "8",
+            "id": 1
+        },
+        {
+            "Employee_ID": "02",
+            "Employee_Name": "tazu",
+            "Date": "01/02/2022",
+            "In_Time": "9.00",
+            "Out_Time": "5.00",
+            "Work_Time": "8",
+            "id": 2
+        }
+    ]
+}
