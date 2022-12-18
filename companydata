@@ -1,0 +1,25 @@
+{
+    "companys": [
+        {
+            "id": 1
+        },
+        {
+            "name": "bangla",
+            "age": 30,
+            "id": 2
+        },
+        {
+            "name": "bangla",
+            "age": 30,
+            "id": 3
+        },
+        {
+            "name": "bangla",
+            "age": 30,
+            "id": 4
+        },
+        {
+            "id": 5
+        }
+    ]
+}
