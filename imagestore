@@ -1,0 +1,54 @@
+{
+    "students": [
+        {
+            "name": "Time",
+            "image": "1.jpeg",
+            "id": 1
+        },
+        {
+            "name": "tascvv",
+            "image": "2.jpeg",
+            "id": 2
+        },
+        {
+            "name": "tascvv",
+            "image": "3.jpeg",
+            "id": 3
+        },
+        {
+            "name": "tascvv",
+            "image": "4.jpeg",
+            "id": 4
+        },
+        {
+            "name": "tascvv",
+            "image": "5.jpeg",
+            "id": 5
+        },
+        {
+            "name": "tascvv",
+            "image": "6.jpeg",
+            "id": 6
+        },
+        {
+            "name": "ta",
+            "image": "7.jpeg",
+            "id": 7
+        },
+        {
+            "name": "asd",
+            "image": "8.jpeg",
+            "id": 8
+        },
+        {
+            "name": "taz",
+            "image": "9.jpeg",
+            "id": 9
+        },
+        {
+            "name": "zswhfx",
+            "image": "10.jpeg",
+            "id": 10
+        }
+    ]
+}

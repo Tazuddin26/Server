@@ -1,0 +1,47 @@
+{
+    "abc": [
+        {
+            "Employee_Name": "Md.Tazuddin Ahmad",
+            "Employee_Id": "01",
+            "Department": "IT",
+            "Position": "IT",
+            "E_Type": "IT Related",
+            "Workflow": "Networking",
+            "Date": "2022-12-04",
+            "Contact": "01917832746",
+            "Email": "tazuddin26@gmail.com",
+            "Image": "1.jpeg",
+            "id": 1
+        },
+        {
+            "Employee_Name": "Md.Tazuddin Ahmad",
+            "Employee_Id": "01",
+            "Department": "IT",
+            "Position": "IT",
+            "E_Type": "IT Related",
+            "Workflow": "Networking",
+            "Date": "2022-12-04",
+            "Contact": "01917832746",
+            "Email": "tazuddin26@gmail.com",
+            "Image": "2.jpeg",
+            "id": 2
+        }
+    ],
+    "private": [
+        {
+            "localname": "Md.Tazuddin Ahmad",
+            "nationality": "Bangladeshi",
+            "address": "Islam",
+            "gender": "01310642581",
+            "office_tel": "BD",
+            "religion": "Male",
+            "postcode": "1230",
+            "birthday": "1991-10-01",
+            "Email": "tazuddin26@gmail.com",
+            "city": "Dhaka",
+            "mobile": "01917832746",
+            "image": "1.jpeg",
+            "id": 1
+        }
+    ]
+}
